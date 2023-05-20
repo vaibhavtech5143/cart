@@ -17,7 +17,7 @@ const Cart = () => {
       
       />
       </main>
-      <aside>s
+      <aside>
        <h2> Subtotal: Rs {2000}</h2>
        <h2> Commision: Rs {2000}</h2>
        <h2> Tax: Rs {2000}</h2>
